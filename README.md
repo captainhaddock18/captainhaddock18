@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharakadatta Hegde</h1>
+<h1 align="center">Hi There👋, I'm Tharakadatta Hegde</h1>
 <h3 align="center">Constantly Learning and Evolving in Tech!</h3>
 
 - 📫 How to reach me **b22es007@iitj.ac.in**
