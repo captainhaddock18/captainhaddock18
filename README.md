@@ -2,6 +2,7 @@
 <h3 align="center">Constantly Learning and Evolving in Tech!</h3>
 
 - 📫 How to reach me **b22es007@iitj.ac.in**
+- Visit My Portfolio <a href="https://portfolio-tharak.vercel.app/"> My Portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
