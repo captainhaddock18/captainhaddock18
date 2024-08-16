@@ -5,7 +5,7 @@
 <h3 align="center">Constantly Learning and Evolving in Tech!</h3>
 
 ## 🙋‍♂️ About Me
-- 👨🏼‍🎓 I'm a Junior from IIT Jodhpur.
+- 👨🏼‍🎓 Pre Final Year Computer Science student from IIT Jodhpur.
 - 🌱 Software Development Intern at GlutaClass in Summers 2024
 - ✨ Had Participated in INTER-IIT Tech 12.0 in the Adobe Problem Statement. 
 - 👯 I’m on the path to learn and collaborate on open source projects.
