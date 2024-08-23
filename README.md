@@ -9,7 +9,7 @@
 - 🌱 Software Development Intern at GlutaClass in Summers 2024
 - ✨ Had Participated in INTER-IIT Tech 12.0 in the Adobe Problem Statement. 
 - 👯 I’m on the path to learn and collaborate on open source projects.
-- 📫 How to reach me: <a href="mailto:b22es007@iitj.ac.in">b22es007@iitj.ac.in</a> <a href=""></a>
+- 📫 How to reach me: <a href="mailto:B22CS102@iitj.ac.in">B22CS102@iitj.ac.in</a> <a href=""></a>
 - Visit My Portfolio <a href="https://portfolio-tharak.vercel.app/"> Portfolio Website </a>
 
 <h3 align="left">Connect with me:</h3>
